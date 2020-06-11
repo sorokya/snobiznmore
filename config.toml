@@ -1,4 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "https://snobiznmore.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Snobiz n' More"
 theme = "snobiz"
+
+paginate = 4 # Set the number of posts to show before overflowing to the next page.
+summaryLength = 10 # Configure how long the post summary should be on the homepage.
+
+# Set to false to disallow raw HTML in markdown files
+[markup.goldmark.renderer]
+    unsafe = true

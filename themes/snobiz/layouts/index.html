@@ -1,10 +1,42 @@
-<!DOCTYPE html>
-<html lang="en_US">
-	<head>
-		<title>Snobiz n' More</title>
-		<meta charset="UTF-8" />
-	</head>
-	<body>
-		<h1>Hello, world!</h1>
-	</body>
-</html>
+{{ define "main" }}
+<section>
+	{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+	{{ range (.Paginate $pages).Pages }}
+	<article>
+		<h3>
+			<a href="{{ .Permalink }}">
+				{{ .Title }}
+			</a>
+		</h2>
+		<p>{{ .Summary }}</p>
+		{{ if .Truncated }}
+		<a href="{{ .RelPermalink }}">Read more...</a>
+		{{ end }}
+		<div class="post-footer">
+		<time>{{ .Date.Format "January 2, 2006" }}</time>
+
+		<!-- Display tags -->
+		{{if .Params.tags}}
+			{{ range .Params.tags }}
+				<a class="tag" href="/tags/{{ . | urlize }}">#{{.}}</a>
+			{{ end }}
+		{{ end }}
+		</div> 
+	</article>
+	{{ end }}
+</section>
+<div class="paginator">
+	{{ $paginator := .Paginator }}
+	{{ if gt .Paginator.TotalPages 1 }}
+	<p>Page {{ $paginator.PageNumber}} of {{ $paginator.TotalPages }}</p>
+	<div class="paginator-group">
+		{{ if $paginator.HasPrev }}
+		<a href="{{ $paginator.Prev.URL | relLangURL }}">Newer</a>
+		{{ end }}
+		{{ if $paginator.HasNext }}
+			<a href="{{ $paginator.Next.URL | relLangURL }}">Older</a>
+		{{ end }}
+	</div>
+	{{ end }}
+</div>
+{{ end }}

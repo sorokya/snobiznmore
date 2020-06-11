@@ -1,0 +1,27 @@
+{{ define "main" }}
+<!-- Page that displays after clicking on a post's tag -->
+  <h1 class="page-title">Tagged "{{ .Data.Term }}"</h1>
+  {{range .Pages}}
+        <article>
+            <h3>
+                <a href="{{ .Permalink }}">
+                    {{ .Title }}
+                </a>
+            </h2>
+            <p>{{ .Summary }}</p>
+            {{ if .Truncated }}
+            <a href="{{ .RelPermalink }}">Read more...</a>
+            {{ end }}
+            <div class="post-footer">
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+
+            <!-- Display tags -->
+            {{if .Params.tags}}
+                {{ range .Params.tags }}
+                    <a class="tag" href="/tags/{{ . | urlize }}">#{{.}}</a>
+                {{ end }}
+            {{ end }}
+            </div> 
+        </article>
+    {{ end }}
+{{ end }}

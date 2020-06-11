@@ -1,0 +1,14 @@
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="format-detection" content="telephone=no"/>
+        <meta name="description" content="Snobiz n' More of New Martinsville, WV. Stop by and try a
+		delicious shaved ice, hand dipped ice cream, sundae, milkshake, or much much more!">
+        <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+        <link rel="manifest" href="{{ "manifest.json" | relURL }}">
+        <link rel="stylesheet" href="/css/style.css"/>
+        {{ with .OutputFormats.Get "RSS" }}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+        {{ end }}
+    </head>
