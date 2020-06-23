@@ -27,7 +27,7 @@ Two Dips: **$3.00**<br>
 Waffle Cone: **$4.00**<br>
 
 ### Milkshakes
-Available in any of our [Ice Cream flavors](hand-dipped-ice-cream) or
+Available in any of our [Ice Cream flavors](#hand-dipped-ice-cream) or
 [Snobiz flavors](/snobiz-flavors)
 
 Additional Flavors:
@@ -60,7 +60,7 @@ do a Pepsi float if you'd like. A can of soda, and a dip of vanilla ice cream.
 20oz: **$3.00**
 
 ### Drinks
-* Bottled Water (Dasani)
+* Bottled Water
 * Canned Pop
     * Pepsi
     * Mountain Dew
