@@ -35,7 +35,7 @@ Additional Flavors:
 * Caramel
 * Butterscotch
 
-20oz: **$4.00**
+20oz: **$5.00**
 
 ### Sundaes
 Three scoops of ice cream with your choice of topping (Whipped cream & cherry optional).
