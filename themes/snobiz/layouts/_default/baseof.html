@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-    {{- partial "head.html" . -}}
-    <body>
-        <div class="wrapper">
-            {{- partial "header.html" . -}}
-            {{- block "main" . }}{{- end }}
-            <div class="push"></div>
-        </div>
-        {{- partial "footer.html" . -}}
-        <script async defer data-website-id="67728967-5ed3-4ea2-8045-b055ecbe0268" src="https://stats.richardleek.com/umami.js"></script>
-    </body>
+  {{- partial "head.html" . -}}
+  <body>
+    <div class="wrapper">
+      {{- partial "header.html" . -}} {{- block "main" . }}{{- end }}
+      <div class="push"></div>
+    </div>
+    {{- partial "footer.html" . -}}
+    <script
+      async
+      src="https://stats.richardleek.com/script.js"
+      data-website-id="cb2ce9a8-143d-463d-b1d5-db2aee7a3b29"
+    ></script>
+  </body>
 </html>
