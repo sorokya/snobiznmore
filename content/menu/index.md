@@ -18,13 +18,16 @@ Available in a cone or bowl.
 
 - Vanilla
 - Chocolate
-- Strawberry
 - Butter Pecan
 - Moose Tracks
-- Chocolate Chip Cookie Dough
-- Cherry Nut
-- Mint Chocolate Chip
-- **new** Superman
+- White House Cherry
+- Superman
+
+### New Ice Cream flavors coming soon!
+
+- Strawberry Cheesecake
+- Wild Black Cherry
+- Cotton Candy
 
 One Dip: **$2.00**<br>
 Two Dips: **$3.00**<br>
@@ -50,9 +53,8 @@ Three scoops of ice cream with your choice of topping (Whipped cream & cherry op
 - Hot fudge
 - Caramel
 - Butterscotch
-- Strawberries
+- Strawberry
 - Peanut Butter
-- Red Raspberry
 
 **$3.00**
 

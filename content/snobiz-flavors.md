@@ -5,9 +5,10 @@ title: "Flavors"
 
 You can get up to 3 Normal or Special flavors on a snobiz!
 
-# New Flavors!
+# Coming soon!
 
-- Cheesecake
+- Pear
+- Pirate's Punch
 
 ## Normal
 
@@ -19,6 +20,7 @@ You can get up to 3 Normal or Special flavors on a snobiz!
 - Bubblegum
 - Butter Beer
 - Cantaloupe
+- Cheesecake
 - Cherry
 - Cinnamon
 - Coconut
