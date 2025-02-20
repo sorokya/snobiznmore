@@ -15,4 +15,4 @@ Behind the old River City Video building.
 
 <br />
 Contact us:
-<a href="tel:13047715266">+1 304-771-5266</a>
+<a href="tel:13044553439">+1 304-455-3439</a>
