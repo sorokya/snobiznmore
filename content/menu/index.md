@@ -20,11 +20,11 @@ Available in a cone or bowl.
 - Chocolate
 - Butter Pecan
 - Moose Tracks
+- Chocolate Chip Cookie Dough
 - White House Cherry
 - Superman
-
-### New Ice Cream flavors coming soon!
-
+- Black Raspberry
+- Strawberry
 - Strawberry Cheesecake
 - Wild Black Cherry
 - Cotton Candy
