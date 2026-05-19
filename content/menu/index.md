@@ -19,15 +19,11 @@ Available in a cone or bowl.
 - Vanilla
 - Chocolate
 - Butter Pecan
-- Moose Tracks
 - Chocolate Chip Cookie Dough
-- White House Cherry
-- Superman
-- Black Raspberry
-- Strawberry
 - Strawberry Cheesecake
-- Wild Black Cherry
 - Cotton Candy
+- Mint Chocolate Chip
+- Cookies & Cream
 
 One Dip: **$2.00**<br>
 Two Dips: **$3.00**<br>
