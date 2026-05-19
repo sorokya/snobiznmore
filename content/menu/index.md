@@ -25,9 +25,9 @@ Available in a cone or bowl.
 - Mint Chocolate Chip
 - Cookies & Cream
 
-One Dip: **$2.00**<br>
-Two Dips: **$3.00**<br>
-Waffle Cone: **$4.00**<br>
+One Dip: **$3.25**<br>
+Two Dips: **$3.75**<br>
+Waffle Cone: **$5.35**<br>
 
 ### Milkshakes
 
@@ -48,11 +48,9 @@ Three scoops of ice cream with your choice of topping (Whipped cream & cherry op
 
 - Hot fudge
 - Caramel
-- Butterscotch
 - Strawberry
-- Peanut Butter
 
-**$3.00**
+**$4.75**
 
 ### Smoothies & Slushies
 
@@ -60,22 +58,59 @@ Turn any one of our delicious [Snobiz flavors](/snobiz-flavors) into a drink!
 
 Smoothies have a dip of vanilla ice cream added for a creamy texture and flavor.
 
-20oz: **$4.00**
+20oz: **$5.00**
 
+### Snobiz Coffees
+
+- Caramel
+- Mocha
+
+**$6.00**
+
+<!--
 ### Floats
 
 We offer a classic float drink in both Root Beer and Orange Crush. We could even
 do a Pepsi float if you'd like. A can of soda, and a dip of vanilla ice cream.
 
 20oz: **$3.00**
+-->
+
+### Nachos
+
+**$4.00**
+
+### Pickles
+
+**$1.00**
+
+### Corndogs
+
+**$2.75**
+
+### Hotdogs
+
+Toppings:<br>
+- Relish
+- Ketchup
+- Mustard
+
+**$3.25**
+
+### Pretzels
+
+Salted or Sugar & Cinnamon
+
+**$4.00**
 
 ### Drinks
 
 - Bottled Water
 - Canned Pop
-  - Pepsi
-  - Mountain Dew
-  - Diet Pepsi
-  - Diet Mountain Dew
+  - Coke
+  - Diet Coke
+  - Dr. Pepper
+  - Sprite
+  - Root beer
 
 **$1.00**
