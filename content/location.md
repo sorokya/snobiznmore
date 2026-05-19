@@ -10,8 +10,7 @@ New Martinsville, WV 26155
 
 Behind the old River City Video building.
 
-**Mon-Sat**: 3 PM to 8 PM<br>
-**Closed Sundays**
+**Seven days a week**: 3 PM to 8:30 PM<br>
 
 <br />
 Contact us:
