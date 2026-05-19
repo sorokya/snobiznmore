@@ -5,11 +5,6 @@ title: "Flavors"
 
 You can get up to 3 Normal or Special flavors on a snobiz!
 
-# Coming soon!
-
-- Pear
-- Pirate's Punch
-
 ## Normal
 
 - Banana
